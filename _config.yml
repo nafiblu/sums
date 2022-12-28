@@ -48,6 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from
@@ -109,5 +110,4 @@ copyright:
   holder: "St Andrews University Mathematics Society and contributors"
 
 atom_feed:
-  hide: true
   
