@@ -7,23 +7,32 @@ permalink: /committee/
 
 (This is outdated, if anyone can compile a list, it would be much appreciated)
 
-President: Joseph Edwards 
+President: Daniel Roebuck
 
-Vice President: Vicky Chu 
+Vice President: Arina Bekenova
 
-Treasurer: Ann Liu 
+Treasurer: Jess Kettlewood
 
-Secretary: Daniel Roebuck 
+Secretary: Leo Doherty
 
-Social Rep: Marina Anagnostopoulou-Merkouri 
+Social Rep: Ella Yates
 
-Publicity Rep: Zoë Gemmell 
+First Year Rep: Katie Eremina 
 
-First Year Rep: Deyao Chen 
- 
+Postgraduate Rep: Peiran Wu
 
-## SUMO Helpers: 
+Publicity Rep: Daniel Chavez
 
-Peiran Wu 
+Problem Curator: Rhys Murphy
 
-Hyeokjun Kwon 
+Events and Outreach Officer:
+
+Technical Officer: Deyao Chen
+
+Lecture Organiser: Ben Tocher
+
+General Committee Members: 
+- Callum Barber
+- Ifan Howells-Baines
+- Jun Kwon
+- Yanni
