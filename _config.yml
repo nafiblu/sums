@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "SUMS"
-  avatar : "assets/images/SUMOLOGO.jpg"
+  avatar : "assets/images/sums-logo.svg"
   bio    : "I am a cute nerd who is good at maths."
   links:
     - label: "SUMS Facebook"
