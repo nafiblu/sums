@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: St Andrews Mathematics Scoeity
+title: St Andrews Mathematics Society
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The lovely website for St Andrews Mathematics Society (SUMS). 
