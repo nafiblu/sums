@@ -1,17 +1,9 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Registrations"
-    url: /registrations/
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Venue"
-    url: /venue/
-  - title: "Rules"
-    url: /rules/
-  - title: "Question Papers"
-    url: /question_papers/
-  - title: "Organisers"
-    url: /organisers/
   - title: "Posts"
     url: /posts/
+  - title: "Fun Problems"
+    url: /fun-problems/
+  - title: "Committee"
+    url: /committee/
+  - title: "About"
+    url: /about/

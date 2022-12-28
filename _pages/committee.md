@@ -1,9 +1,11 @@
 ---
-title: "Orgnisers"
-permalink: /organisers/
+title: "Committee"
+permalink: /committee/
 ---
 
 ## SUMS Committee: 
+
+(This is outdated, if anyone can compile a list, it would be much appreciated)
 
 President: Joseph Edwards 
 
